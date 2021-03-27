@@ -1,6 +1,6 @@
 # IdaoQuant
 ⚠️This open-sourced repo is no longer maintained. And this project is to be ***closed source***. Please contact me by email if you are interested to know more about it or join us.
-* My email: wzl574402791@outlook.com
+* My email: wangzl31@outlook.com
 
 ### Main Strategy
 * CTA
